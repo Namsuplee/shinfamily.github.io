@@ -1,0 +1,56 @@
+body{
+    padding: 1%;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    color: violet;
+}
+
+
+label{
+    position: relative;
+    margin-left: 80%;
+}
+.uname{
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    
+    
+}
+label[for=pw]{
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+} 
+
+input{
+    position: relative;
+    margin-left: 80%;
+}
+
+input[type=text]{
+    width: 10%;
+    height: 20px;
+
+}
+
+input[type=password]{
+    width: 10%;
+    height: 20px;  
+} 
+
+input[type=submit]{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(123, 221, 115);
+    margin-left: 1%;
+}
+
+.rb{
+    margin-left: 0.1%;
+    font-weight: 550;
+    color:block;
+    position: relative;
+}
